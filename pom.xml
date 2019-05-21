@@ -60,7 +60,7 @@
 			<version>${logback.version}</version>
 		</dependency>
 		
-	</dependencies>
+	</dependencies> 
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
